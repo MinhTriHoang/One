@@ -1,0 +1,18 @@
+.search-results {
+  padding: 20px;
+}
+
+.booking {
+  padding: 20px;
+}
+
+.booking form {
+  display: flex;
+  flex-direction: column;
+}
+
+.booking label,
+.booking input,
+.booking button {
+  margin: 10px 0;
+}
